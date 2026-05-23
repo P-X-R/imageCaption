@@ -1,0 +1,18 @@
+# Datasets
+data/
+data/**
+
+# Model artifacts
+*.pt
+*.pth
+experiments/
+
+# Numpy / features
+*.npy
+
+# Python
+__pycache__/
+*.pyc
+
+# Env
+.env
